@@ -7,7 +7,7 @@ Our diassembler takes an executable .S68 file. This program then identifies 68K 
 
 ## Team Members and Roles
 1 - Abhishek Muthabatulla: <br />
-Responsible for Input/Output (I/O) Code - Handling the user interface, file operations, and data input/output. <br />
+Responsible for Input/Output (I/O) - Handling the user interface, file operations, and data input/output. <br />
 
 2 - Rod Hoda: <br />
 Responsible for Effective Address (EA) - Focusing on calculating and handling the effective addresses used in assembly instructions.<br />
