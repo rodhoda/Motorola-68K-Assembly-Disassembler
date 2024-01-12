@@ -6,11 +6,11 @@ This project is an Assembler/Disassembler for Motorola 68k assembly language. It
 Our diassembler takes an executable .S68 file. This program then identifies 68K assembly instructions by their opcode and effective-addressing modes. 
 
 ## Team Members and Roles
-1 - Abhishek Muthabatulla: /
-Responsible for Input/Output (I/O) Code - Handling the user interface, file operations, and data input/output. \
+1 - Abhishek Muthabatulla: <br />
+Responsible for Input/Output (I/O) Code - Handling the user interface, file operations, and data input/output. <br />
 
-2 - Rod Hoda: /
-Responsible for Effective Address (EA) - Focusing on calculating and handling the effective addresses used in assembly instructions.\
+2 - Rod Hoda: <br />
+Responsible for Effective Address (EA) - Focusing on calculating and handling the effective addresses used in assembly instructions.<br />
 
-3 - John Fadich: /
-Responsible for Opcode Handling - Implementing the logic to interpret and generate opcodes for assembly instructions.\
+3 - John Fadich: <br />
+Responsible for Opcode Handling - Implementing the logic to interpret and generate opcodes for assembly instructions.<br />
